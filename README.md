@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **web applications.**
 
-- 🌱 I’m currently learning **SEO,react**
+- 🌱 I’m currently learning **SEO, react**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,JavaScript,Jquery,PHP,CodeIgniter,Java,and C#**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, CodeIgniter, Java, and C#**
 
 - 📫 How to reach me **asifmulla190@gmail.com**
 
