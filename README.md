@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **asifmulla190@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing](https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing)
+- 📄 Know about my experiences [Asif_Mulla_Resume](https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
