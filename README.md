@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifmulla1&label=Profile%20views&color=0e75b6&style=flat" alt="asifmulla1" /> </p>
 
-- <h4>🔭 I’m currently working on <b>web applications.</b></h4>
+- <p>🔭 I’m currently working on <b>web applications.</b></p>
 
-- <h4>🌱 I’m currently learning <b>SEO, react</b></h4>
+- <p>🌱 I’m currently learning <b>SEO, react</b></p>
 
-- <h4>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, CodeIgniter, Java, and C#</b></h4>
+- <p>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, CodeIgniter, Java, and C#</b></p>
 
-- <h4>📫 How to reach me <b>asifmulla190@gmail.com</b></h4>
+- <p>📫 How to reach me <b>asifmulla190@gmail.com</b></p>
 
-- <h4> 📄 Know about my experiences <a href="https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing">Asif_Mulla_Resume</a></h4>
+- <p> 📄 Know about my experiences <a href="https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing">Asif_Mulla_Resume</a></p>
 
 
 - ⚡ Fun fact **I am Funny**
