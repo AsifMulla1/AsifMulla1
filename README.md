@@ -12,7 +12,7 @@
 
 - <p>💬 Ask me about <b>HTML, CSS, Bootstrap, JavaScript, Jquery, PHP, CodeIgniter, Java, and C#</b></p>
 
-- <p>📫 How to reach me <b>asifmulla190@gmail.com</b></p>
+- <p>📫 How to reach me <a href="mailto:asifmulla190@gmail.com">asifmulla190@gmail.com</a></p>
 
 - <p> 📄 Know about my experiences <a href="https://drive.google.com/file/d/1S0WxM4vbUcUO9-1QL5O3-faWyVltGLmQ/view?usp=sharing">Asif_Mulla_Resume</a></p>
 
